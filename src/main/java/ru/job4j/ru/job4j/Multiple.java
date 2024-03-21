@@ -1,7 +1,7 @@
 package ru.job4j.ru.job4j;
 
 public class Multiple {
-    public static void main (String[] agrs){
+    public static void main ( String[] agrs) {
         System.out.println("1 * 9 = 9");
         System.out.println("2 * 9 = 18");
         System.out.println("3 * 9 = 27");
