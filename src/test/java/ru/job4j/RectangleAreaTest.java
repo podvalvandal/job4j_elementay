@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
 class RectangleAreaTest {
+
     @Test
     void whenP6K2Square2() {
         int expected = 2;
@@ -23,7 +24,7 @@ class RectangleAreaTest {
     }
 
     @Test
-    void whenP12K2Square2() {
+    void whenP12K2Square8() {
         int expected = 8;
         int p = 12;
         double k = 2;
